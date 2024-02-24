@@ -1,2 +1,2 @@
 Successfully created a snake game using JS
-check here => { snakegamebyrohit.netlify.app }
+Here's the link => { snakegamebyrohit.netlify.app }.
